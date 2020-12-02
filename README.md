@@ -12,8 +12,12 @@ https://qiita.com/nassy20/items/4c19380fa6a338bd4f09
     - (ワイヤーフレームはdrawioでやったことないです。)
 
 ## なぜ drawio
-- oss
 - テキストでバージョン管理できる
+- 継続的に構成図管理したい
+   - git + diff
+   - https://github.com/nnashiki/drawio_azure/pull/1#issuecomment-737051053
+- oss
+   - エクセルはプライベートで使えない
 - svg 出力できる
 - デフォルトでアイコンがある
 
