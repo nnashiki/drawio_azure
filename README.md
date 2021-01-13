@@ -13,6 +13,8 @@ https://qiita.com/nassy20/items/4c19380fa6a338bd4f09
 
 ## なぜ drawio
 - テキストでバージョン管理できる
+   - こんなこともできる
+   - https://github.com/hediet/vscode-drawio#editing-the-diagram-and-its-xml-side-by-side
 - 継続的に構成図管理したい
    - git + diff
    - このように差分が見れる https://github.com/nnashiki/drawio_azure/pull/1#issuecomment-737051053
