@@ -15,11 +15,12 @@ https://qiita.com/nassy20/items/4c19380fa6a338bd4f09
 - テキストでバージョン管理できる
 - 継続的に構成図管理したい
    - git + diff
-   - https://github.com/nnashiki/drawio_azure/pull/1#issuecomment-737051053
+   - このように差分が見れる https://github.com/nnashiki/drawio_azure/pull/1#issuecomment-737051053
 - oss
    - エクセルはプライベートで使えない
 - svg 出力できる
 - デフォルトでアイコンがある
+- live share できる
 
 ## アクション
 - 背景の色を変える
